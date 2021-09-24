@@ -1,2 +1,2 @@
-# projects
-those are some projects during my undergraduate years
+# My Projects
+those are my projects during undergraduate years
