@@ -1,6 +1,8 @@
 # Classroom Booking System
 
 - Guo Zikang, 18206115
+- Jin Chenzhe, 18206139
+- You may view the demo operation in [implmentation Video.mp4] 
 
 ## Working Software Part
 
